@@ -273372,6 +273372,8 @@ ohmically
 ohmmeter
 ohmmeters
 ohms
+ohlone
+ohlones
 oho
 ohone
 ohoy
