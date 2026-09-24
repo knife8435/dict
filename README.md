@@ -1,7 +1,1 @@
-dictionary
-
-i maintain it sometimes
-
-i mostly maintain the json
-
-ye
+dictionary based on dwyl with removed artifacts/gibberish + new words and overall improvements
