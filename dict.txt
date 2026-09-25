@@ -132607,6 +132607,7 @@ ewe
 ewe-neck
 ewe-necked
 ewe-necks
+ewedu
 ewelease
 ewenki
 ewer
