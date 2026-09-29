@@ -1,6 +1,6 @@
 this is a dictionary based on dwyl with removed artifacts/gibberish + new words and overall improvements
 
-the dictionary consists of ~484500 words at the moment with new ones added and removed periodically
+the dictionary consists of ~484600 words at the moment with new ones added and removed periodically
 
 i provide you it in a simple .txt format and .json (formatted the same way as dwyl)
 
